@@ -3,6 +3,11 @@ class Dog
     @name = name 
     @breed = breed
 end 
+def breed 
+  @breed = breed 
+else 
+  @breed = "Mutt"
+  end 
 end 
 
 
